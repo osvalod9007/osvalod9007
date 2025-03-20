@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]  
+# 👋 ¡Hola! Soy Osvaldo Lopez (Osva Dev)  
 
 🚀 **Desarrollador Frontend** especializado en **React, Next.js, TypeScript y React Native**  
 🎥 **Creador de contenido en YouTube** sobre JavaScript, desarrollo web y mobile  
@@ -24,8 +24,8 @@
 ---
 
 ## 📬 Conéctate conmigo  
-🐦 [Twitter/X](https://twitter.com/tu_usuario)  
-💼 [LinkedIn](https://linkedin.com/in/tu_usuario)  
-📺 [YouTube](https://youtube.com/tu_canal)  
+🐦 [Twitter/X](https://x.com/OsvaDev)  
+💼 [LinkedIn](www.linkedin.com/in/osvadev)  
+📺 [YouTube](https://www.youtube.com/@osvadev)  
 
 🙌 ¡Siempre abierto a colaborar y aprender juntos! 
