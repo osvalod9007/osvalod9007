@@ -11,7 +11,7 @@
 📌 **Novedades de JavaScript y TypeScript que debes conocer**  
 📌 **Cómo mejorar el rendimiento en React Native**  
 
-📢 **Suscríbete aquí 👉 [[Osva Dev](https://www.youtube.com/@osvadev))]**  
+📢 **Suscríbete aquí 👉 [Osva Dev](https://www.youtube.com/@osvadev)**  
 
 ---
 
